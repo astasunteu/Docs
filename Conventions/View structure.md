@@ -2,6 +2,29 @@
 
 Grouping code parts for View, Adapter, Fragment, Activity and ViewController classes depending on the OS to organize variables, methods and business logic.
 
+## Content
+
+[Callbacks](#callbacks)
+
+[Properties](#properties)
+
+[Views](#views)
+
+[Setup](#setup)
+
+[Handlers](#handlers)
+
+[Modifications](#modifications)
+
+[Presentation](#presentation)
+
+[Navigation](#navigation)
+
+[Requesting](#requesting)
+
+[Lifecycle](#lifecycle)
+
+
 ## Basics
 
 Each group should be labeled in the code with an appropriate comment indicating the name of the group and subgroup if necessary.
