@@ -31,11 +31,11 @@ There is a complete list of groups that can be used in a View class, but it is a
 Each group should be labeled in the code with an appropriate comment indicating the name of the group and subgroup if necessary.
 
 ```
-// ****************
+// ********
 // Group – subgroup
 ```
 
-Each group is separated by 2 empty lines, and within a group each method or variable is separated by 1 empty line.
+Each group is separated by 2 empty lines, within a group each method is separated by 1 empty line and variable or callbacks are grouped line by line.
 
 
 ## Groups
